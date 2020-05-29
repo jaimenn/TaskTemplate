@@ -1,5 +1,5 @@
 # TaskTemplate
-Aplicativo base android jetpack, utilizando linguagem kotlin archtecture components, MVVM, room, retrofit, navigation
+Aplicativo base utilizando tecnologias do android jetpack: components, room, navigation e linguagem kotlin, arquitetura MVVM, retrofit, etc 
 
  ## Images
 
